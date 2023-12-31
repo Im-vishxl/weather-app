@@ -4,8 +4,8 @@ import React from "react";
 export const geoApiOptions = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '7f6abd56e0msh14e56c577be54a0p18ccfdjsn079c04d6dd54',
-		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
+		'X-RapidAPI-Key': 'key-here',
+		'X-RapidAPI-Host': 'host-here'
 	}
 };
 
